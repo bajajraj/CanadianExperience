@@ -8,7 +8,9 @@ In rotate mode, all of the body parts rotate. The child parts rotate with the pa
 
 We are, of course, creating a scene from the great country of Canada. If you’ve seen South Park, you’ll know what I’m talking about.
 
-This is what the final project looks like 
+This is what the final project looks like -
+
 ![image](https://user-images.githubusercontent.com/91573783/147614136-069aac0b-b01e-4274-801d-f3c68d718215.png)
+
 Please, let me know if there are more details needed about the game. 
 
