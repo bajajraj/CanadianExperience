@@ -1,3 +1,0 @@
-C:/Users/User/Downloads/bajajraj/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/machinedemolib-populate.dir
-C:/Users/User/Downloads/bajajraj/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/User/Downloads/bajajraj/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/rebuild_cache.dir
